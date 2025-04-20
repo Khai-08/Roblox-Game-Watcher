@@ -1,0 +1,8 @@
+{
+  "webhook": "YOUR_DISCORD_WEBHOOK_URL",
+  "role_ping": "YOUR_DISCORD_ROLE_ID",
+  "watch_speed": 3,
+  "game_ids": [
+    12886143095
+  ]
+}
